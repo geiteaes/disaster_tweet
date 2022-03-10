@@ -7,7 +7,7 @@ To determine the best model,we will measure the f1 score on the test set from ea
 
 ## Model Result Summary 
 ![Model Result Summary](disaster_tweet/graph_upload/neural network architecture.png)
-
-
-## Neural Network Architecture 
-![Neural Network Architecture](disaster_tweet/graph_upload/testa_result.JPG)
+<p align="center">
+  <img src="disaster_tweet/graph_upload/neural network architecture.png" width="350" title="hover text">
+  <img src="disaster_tweet/graph_upload/test_result.JPG" width="350" alt="accessibility text">
+</p>
