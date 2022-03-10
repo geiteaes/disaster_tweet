@@ -6,8 +6,6 @@ Twitter is a social media platform that allows users to send and receive informa
 To determine the best model,we will measure the f1 score on the test set from each given model. The f1 score and computational cost trade off is also then being considered to determine the most optimal model. With only 22 variables input,the **Neural Network model** can produce 77.60% accuracy on the test.
 
 ## Model Result Summary 
-![Model Result Summary](disaster_tweet/graph_upload/neural network architecture.png)
-<p align="center">
-  <img src="disaster_tweet/graph_upload/neural network architecture.png" width="350" title="hover text">
-  <img src="disaster_tweet/graph_upload/test_result.JPG" width="350" alt="accessibility text">
-</p>
+
+<img src ="disaster_tweet/graph_upload/neural network architecture.png">
+<img src ="disaster_tweet/graph_upload/test_result.JPG">
